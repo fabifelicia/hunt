@@ -7,11 +7,17 @@
     "test": "jest"
   },
   "dependencies": {
+    "acorn": "^8.0.4",
     "axios": "^0.21.1",
+    "lodash": "^4.17.20",
+    "mem": "^8.0.0",
+    "minimist": "^1.2.5",
+    "node-fetch": "^2.6.1",
     "node-notifier": "^9.0.0",
     "react": "16.8.3",
     "react-native": "0.59.9",
-    "react-navigation": "^2.18.3"
+    "react-navigation": "^2.18.3",
+    "yargs-parser": "^20.2.4"
   },
   "devDependencies": {
     "@babel/core": "7.4.5",
